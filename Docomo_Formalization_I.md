@@ -2,7 +2,7 @@
 
 ## FORMALIZATION I
 
-Definitions
+### Definitions
 
 <ol>
     <li>Paragraphs
@@ -12,7 +12,7 @@ Definitions
             <li>Every paragraph in one common documental resource shall belong to a single organizational structure such that the following holds:
                 <ul>
                     <li>The organizational structure contains a relation, named "parenthood", that includes all paragraphs in the documental resource
-                    <li>Under such a relation, each paragraph is related to exactly one other block of text which is said to be its parent
+                    <li>Under such a relation, each paragraph is related to exactly one other paragraph which is said to be its parent
                     <li>Every documental resource contains a single paragraph that is parentless, termed a 'title'
                         <ul>
                             <li>Pertaining to this point, if a title is not present, an implicit title is assumed</li>
@@ -25,7 +25,7 @@ Definitions
     </li>
     <li>Blocks of text
         <ul>
-            <li>A block of text is a sequence of paragraphs with a common parent paragraph</li>
+            <li>A block of text is a set of paragraphs with a common parent paragraph</li>
             <li>A block of text with respect to ordering may be ordered or unordered</li>
             <li>An unordered block of text is a set of paragraphs with interchangeable disposition that doesn't alter its meaning
             <li>An ordered block of text is a sequence of paragraphs with a disposition that is revelant for its meaning</li>
