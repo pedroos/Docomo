@@ -11,7 +11,7 @@ Elements in ~~strikethrough~~ are not in effect and are left only for historical
     - ~~The following elements are defined:~~
       - ~~Paragraph~~
   - Components
-    - A component is a distinguishable abstract unit of a documental resource
+    - A component is a distinguishable unit of a documental resource
   - Types
     - A type is a common name given to distinct components
     - The following types are defined:
